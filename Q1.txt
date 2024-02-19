@@ -1,0 +1,36 @@
+{
+    "name": "hifadullah",
+    "email": "mr.hifad10@gmail.com",
+    "phone": "9940994714",
+    "address": "periyar st,thirumurugan nagar,srinivasapuram,mayiladuthurai",
+    "summary": "Experienced Full Stack Developer with a passion for building scalable and user-friendly web applications. Proficient in both front-end and back-end technologies, with a strong foundation in computer science principles.",
+    "education": [
+      {
+        "degree": "Bachelor of commerce",
+        "university": "DR.M.G.R UNIVERSITY",
+        "graduation_year": 2024
+      }
+    ],
+      }
+    ,
+    "skills": {
+      "front_end": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React.js",
+        "AngularJS"
+      ],
+      "back_end": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "SQL",
+        
+      ],
+      "other": [
+        "Git",
+       
+      ]
+    }
+  
